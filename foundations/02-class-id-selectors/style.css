@@ -1,0 +1,15 @@
+.odd-number {
+    background-color: #ff7171;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+.size {
+    font-size: 24px;
+}
+#second {
+    color: #1100fd;
+    font-size: 36px;
+}
+#fourth {
+    background-color: #91f091;
+    font-weight: bold;
+}
